@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+synthetic/*.html
+synthetic/*.pdf
+synthetic/*.png
